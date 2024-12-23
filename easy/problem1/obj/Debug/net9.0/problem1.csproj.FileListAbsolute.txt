@@ -1,0 +1,14 @@
+C:\Users\vinicius\LeetCode\problem1\bin\Debug\net9.0\problem1.exe
+C:\Users\vinicius\LeetCode\problem1\bin\Debug\net9.0\problem1.deps.json
+C:\Users\vinicius\LeetCode\problem1\bin\Debug\net9.0\problem1.runtimeconfig.json
+C:\Users\vinicius\LeetCode\problem1\bin\Debug\net9.0\problem1.dll
+C:\Users\vinicius\LeetCode\problem1\bin\Debug\net9.0\problem1.pdb
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.AssemblyInfoInputs.cache
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.AssemblyInfo.cs
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.dll
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\refint\problem1.dll
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.pdb
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\problem1.genruntimeconfig.cache
+C:\Users\vinicius\LeetCode\problem1\obj\Debug\net9.0\ref\problem1.dll
